@@ -1,7 +1,7 @@
 # ECS
 Setting Up ECS CLI:
 
-$ ecs-cli configure --region < region > --access-key < access-key > --secret-key < secret-key > --cluster <cluster-name>  
+$ ecs-cli configure --region < region > --access-key < access-key > --secret-key < secret-key > --cluster < cluster-name >  
 
 Deploying Your First Application on ECS:
 
